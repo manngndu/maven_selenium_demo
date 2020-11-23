@@ -19,7 +19,7 @@ public class DemoTest {
 
 	@Test
 	public void sumTest() {
-		System.out.println("TESTING SUM");
+		System.out.println("TESTING SUMMATION");
 		int a = 20;
 		int b = 30;
 		int sum = a + b;

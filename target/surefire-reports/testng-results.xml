@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Example test run" duration-ms="22664" started-at="2020-11-23T08:44:19Z" finished-at="2020-11-23T08:44:42Z">
+  <suite name="Example test run" duration-ms="14822" started-at="2020-11-23T12:01:31Z" finished-at="2020-11-23T12:01:46Z">
     <groups>
     </groups>
-    <test name="Simple Test" duration-ms="22664" started-at="2020-11-23T08:44:19Z" finished-at="2020-11-23T08:44:42Z">
+    <test name="Simple Test" duration-ms="14822" started-at="2020-11-23T12:01:31Z" finished-at="2020-11-23T12:01:46Z">
       <class name="com.practice.tests.DemoTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="setup" is-config="true" duration-ms="11745" started-at="2020-11-23T14:14:19Z" finished-at="2020-11-23T14:14:31Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="setup" is-config="true" duration-ms="6777" started-at="2020-11-23T17:31:31Z" finished-at="2020-11-23T17:31:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="subTest()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="subTest" duration-ms="2" started-at="2020-11-23T14:14:31Z" finished-at="2020-11-23T14:14:31Z">
+        <test-method status="PASS" signature="subTest()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="subTest" duration-ms="3" started-at="2020-11-23T17:31:38Z" finished-at="2020-11-23T17:31:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- subTest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="teardown" is-config="true" duration-ms="720" started-at="2020-11-23T14:14:31Z" finished-at="2020-11-23T14:14:32Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="teardown" is-config="true" duration-ms="1405" started-at="2020-11-23T17:31:38Z" finished-at="2020-11-23T17:31:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="setup" is-config="true" duration-ms="9497" started-at="2020-11-23T14:14:32Z" finished-at="2020-11-23T14:14:41Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="setup" is-config="true" duration-ms="5945" started-at="2020-11-23T17:31:39Z" finished-at="2020-11-23T17:31:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="sumTest()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="sumTest" duration-ms="1" started-at="2020-11-23T14:14:41Z" finished-at="2020-11-23T14:14:41Z">
+        <test-method status="PASS" signature="sumTest()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="sumTest" duration-ms="0" started-at="2020-11-23T17:31:45Z" finished-at="2020-11-23T17:31:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sumTest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="teardown" is-config="true" duration-ms="680" started-at="2020-11-23T14:14:41Z" finished-at="2020-11-23T14:14:42Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.tests.DemoTest@1e67b872]" name="teardown" is-config="true" duration-ms="674" started-at="2020-11-23T17:31:45Z" finished-at="2020-11-23T17:31:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
