@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="28" started-at="2020-11-22T14:00:55Z" finished-at="2020-11-22T14:00:55Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="28" started-at="2020-11-22T14:00:55Z" finished-at="2020-11-22T14:00:55Z">
+      <class name="com.practice.tests.DemoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.tests.DemoTest@36d4b5c]" name="setup" is-config="true" duration-ms="4" started-at="2020-11-22T19:30:55Z" finished-at="2020-11-22T19:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="subTest()[pri:0, instance:com.practice.tests.DemoTest@36d4b5c]" name="subTest" duration-ms="5" started-at="2020-11-22T19:30:55Z" finished-at="2020-11-22T19:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="sumTest()[pri:0, instance:com.practice.tests.DemoTest@36d4b5c]" name="sumTest" duration-ms="1" started-at="2020-11-22T19:30:55Z" finished-at="2020-11-22T19:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.tests.DemoTest@36d4b5c]" name="teardown" is-config="true" duration-ms="0" started-at="2020-11-22T19:30:55Z" finished-at="2020-11-22T19:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.tests.DemoTest@36d4b5c]" name="setup" is-config="true" duration-ms="0" started-at="2020-11-22T19:30:55Z" finished-at="2020-11-22T19:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.tests.DemoTest@36d4b5c]" name="teardown" is-config="true" duration-ms="0" started-at="2020-11-22T19:30:55Z" finished-at="2020-11-22T19:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.practice.tests.DemoTest -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
